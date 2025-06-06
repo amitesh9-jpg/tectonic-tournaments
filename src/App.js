@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import RegistrationForm from "./components/RegistrationForm";
-import Contact from "./pages/Contact";
+import Contact from "./pages/contact";
 
 function Home() {
   return (
